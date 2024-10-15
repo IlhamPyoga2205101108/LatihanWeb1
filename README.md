@@ -1,2 +1,3 @@
-# LatihanWeb1
-Ilham Prayoga (2205101108)
+# LatihanModul1
+Nama : Ilham Prayoga 
+Nim : 2205101108
